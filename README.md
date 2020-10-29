@@ -21,8 +21,12 @@
 
 - ⚡ Fun fact **I give damn about RomComs more than I care to admit 😁**
 
-### Blogs posts
+### Popular blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sliding Window Algorithm](https://redquark.org/cotd/sliding_window/)
+- [AEM Developer Series](https://redquark.org/aem/day-00-aem-developer-series/)
+- [Median Of Two Sorted Arrays](https://redquark.org/leetcode/0004-median-of-two-sorted-arrays/)
+- [Common JavaScript Snippets](https://redquark.org/snippets/javascript-snippets-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
