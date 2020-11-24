@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **anirudh03sharma@gmail.com**
 
-- 📄 Know about my experiences [https://redquark.org/about](https://redquark.org/about)
-
 - ⚡ Fun fact **I give damn about RomComs more than I care to admit 😁**
 
 ### Popular blog posts
@@ -39,7 +37,6 @@
 <a href="https://instagram.com/ani03sha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ani03sha" height="30" width="40" /></a>
 <a href="https://medium.com/@anirudh03sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anirudh03sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anirudh03sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="anirudh03sharma" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/d0opchwpbx78stbm.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://rss.app/feeds/d0opchwpbx78stbm.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
