@@ -6,4 +6,4 @@
 
 - 📝 I regulary write articles on [https://redquark.org](https://redquark.org)
 
-- ⚡ Fun fact **I am an Avid reader, Potterhead, Trekkie, ❤️ 3Cs - CS, Comic Books & Cricket. **
+- ⚡ Fun fact **I am an Avid reader, Potterhead, Trekkie, ❤️ 3Cs - CS, Comic Books & Cricket.**
