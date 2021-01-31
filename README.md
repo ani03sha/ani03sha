@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 📝 I regulary write articles on [Red Quark](https://redquark.org)
+- 📝 I regularly write articles on [Red Quark](https://redquark.org)
 
 - ⚡ Fun fact **I am an Avid reader, Potterhead, Trekkie, ❤️ 3Cs - CS, Comic Books & Cricket.**
