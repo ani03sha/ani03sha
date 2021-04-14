@@ -7,3 +7,6 @@
 - 📝 I regularly write articles on [Red Quark](https://redquark.org)
 
 - ⚡ Fun fact **I am an Avid reader, Potterhead, Trekkie, ❤️ 3Cs - CS, Comic Books & Cricket.**
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?branding=false&widget=summary&username=ani03sha&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>
